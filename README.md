@@ -4,7 +4,7 @@ Logo Infringement Detection
     1.SK karishma(19471A05I1)
     2.S Supriya(19471A05H8)
     3.Y Lakshmi priya(19471A05J5)
-# INTRODUCTION:
+### INTRODUCTION:
    Logo Infringement is mainly
 used for Logo Detection that means
 to check whether the logo is fake or
@@ -18,4 +18,5 @@ have to upload dataset of Logo after
 uploading the dataset we have to done
 Logo classification then we have to
 know whether the logo is fake or original.
-# DATASET LINK: https://www.kaggle.com/datasets/inputblackboxoutput/logoimagesdataset
+### DATASET LINK: 
+https://www.kaggle.com/datasets/inputblackboxoutput/logoimagesdataset
