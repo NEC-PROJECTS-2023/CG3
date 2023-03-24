@@ -1,7 +1,7 @@
 # CG3
 Logo Infringement Detection
 # TEAM MEMBERS:
-    1.SK karishma
+    1.SK karishma(19471A05I1)
     2.S Supriya(19471A05H8)
     3.Y Lakshmi priya(19471A05J5)
 # INTRODUCTION:
