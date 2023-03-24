@@ -2,9 +2,9 @@
 Logo Infringement Detection
 # TEAM MEMBERS:
  
- # 1.SK KARISHMA(19471A05I1)
- # 2.S SUPRIYA(19471A05H8)
- # 3.Y LAKSHMI PRIYA(19471A05J5)
+ #1.SK KARISHMA(19471A05I1)
+ #2.S SUPRIYA(19471A05H8)
+ #3.Y LAKSHMI PRIYA(19471A05J5)
 # INTRODUCTION:
    Logo Infringement is mainly
 used for Logo Detection that means
