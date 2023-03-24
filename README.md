@@ -17,3 +17,4 @@ have to upload dataset of Logo after
 uploading the dataset we have to done
 Logo classification then we have to
 know whether the logo is fake or original.
+DATASET LINK: https://www.kaggle.com/datasets/inputblackboxoutput/logoimagesdataset
